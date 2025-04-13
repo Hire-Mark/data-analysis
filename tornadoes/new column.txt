@@ -1,0 +1,7 @@
+om, year, month, day, date, time, timezone,state, 
+state_fips, ytd-for-state, ef-scale, injuries, fatatalies,
+property_loss, crop_loss, start_latitude, start_longitude, 
+end_latitude, end_longitude, track-length-in-miles, width-in-yards,
+number-of-states-in-track, state-number-in-track, segment-number,
+1st-county-fips-code, 2nd-county-fips code, 3rd-county-fips-code,
+4th-county-fips-code, wind-only-reading
